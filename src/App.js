@@ -1,12 +1,14 @@
 import React, { useState } from 'react';
 import LoginForm from './components/LoginForm.js';
 import ReactPlayer from 'react-player'
-
+import styled from 'styled-components'
 
 function App() {
   const adminUser = {
     email: "Okuu@it.com",
-    password: "nomad2023"
+    password: "nomad2023",
+    email: "Okuuit@gmail.com",
+    password: "nomad2021"
   }
 
   const [user, setUser] = useState({name:"", email:""});
@@ -30,23 +32,62 @@ function App() {
   
   const Logout = () => {
     setUser({name:"", email:"" });
-  }
+  }         
+ 
   
   return (
     <div className="App">
+      <HeaderLogo>
+      <ul>
+     <li><img src="https://itokuu.com/img/TWO%20FLAGS%20EMBASSY%20LOGO_BLUE_LETTERS.png"/></li> 
+     <li><img src="https://itokuu.com/img/AC%20Logo_Color.png"/></li> 
+     <li><img src="https://itokuu.com/img/OKUUIT.png"/></li> 
+      </ul>
+      </HeaderLogo>
+
+      <div className="log">
       {(user.email !="")?(
-        <div className="welcome">
-          <h2>Welcome, <span>{user.name}</span></h2>
+        <div className="welcome"> 
+           <h2> Кош келдиңиз, <span>{user.name}</span></h2> 
+          <button className="btn" onClick={Logout}>Чыгуу</button>        
           <div className="player"> 
-          <ReactPlayer with='100px' height='300px' controls url='https://youtu.be/OtJkXuqyjkk' />
+          <h3>#0.Vs Code редакторун көчүргөндү үйрөнөбүз:</h3>
+          <br/>
+          <ReactPlayer controls url='https://youtu.be/I9xKE1ikx4o' 
+           fluid={false}
+        width={500}
+        height={400} />
           </div>
-            <button onClick={Logout}>Logout</button>
+          <br/>
+          <br/>
+          <br/>
+          <div className="player"> 
+          <h3>#1-сабак. HTML деген эмне? Киришүү сабак</h3>
+          <br/>
+          <ReactPlayer controls url='https://youtu.be/9Udl8WvTba4' 
+           fluid={false}
+        width={500}
+        height={400} />
+          </div>
+
+
+        <footer>
+
+        </footer>
         </div>
       ):(
       <LoginForm Login={Login} error={error} />
       )}
     </div>
+    </div>
   );
 }
 
+
+
 export default App;
+
+
+const HeaderLogo = styled.div`
+height:100px; 
+`
