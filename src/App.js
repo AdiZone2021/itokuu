@@ -5,10 +5,8 @@ import styled from 'styled-components'
 
 function App() {
   const adminUser = {
-    email: "Okuu@it.com",
-    password: "nomad2023",
     email: "Okuuit@gmail.com",
-    password: "nomad2021"
+    password: "nomad2022"
   }
 
   const [user, setUser] = useState({name:"", email:""});
@@ -69,8 +67,17 @@ function App() {
         width={500}
         height={400} />
           </div>
-
-
+          <br/>
+          <br/>
+          <br/>
+          <div className="player"> 
+          <h4>#2-HTML сабактар. HTML тегтер. Div HEADER Footer NAV блок теги жөнүндө сөз болот.</h4>
+          <br/>
+          <ReactPlayer controls url='https://youtu.be/dSMWopvbBnA' 
+          fluid={false}
+          width={500}
+          height={400} />
+          </div>
         <footer>
 
         </footer>
