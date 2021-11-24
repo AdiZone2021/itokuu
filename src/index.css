@@ -134,3 +134,8 @@ li img{
   height:50px;
   margin-top: 20px;
 }
+
+.App{
+  position: relative;
+  margin-left: 150px;
+}

@@ -48,16 +48,6 @@ function App() {
         <div className="welcome"> 
            <h2> Кош келдиңиз, <span>{user.name}</span></h2> 
           <button className="btn" onClick={Logout}>Чыгуу</button>        
-          <div className="player"> 
-          <h3>#0.Vs Code редакторун көчүргөндү үйрөнөбүз:</h3>
-          <br/>
-          <ReactPlayer controls url='https://youtu.be/I9xKE1ikx4o' 
-           fluid={false}
-        width={500}
-        height={400} />
-          </div>
-          <br/>
-          <br/>
           <br/>
           <div className="player"> 
           <h3>#1-сабак. HTML деген эмне? Киришүү сабак</h3>
@@ -74,6 +64,32 @@ function App() {
           <h4>#2-HTML сабактар. HTML тегтер. Div HEADER Footer NAV блок теги жөнүндө сөз болот.</h4>
           <br/>
           <ReactPlayer controls url='https://youtu.be/dSMWopvbBnA' 
+          fluid={false}
+          width={500}
+          height={400} />
+          </div>
+          <br/>
+          <br/>
+          <br/>
+          <div className="player"> 
+          <h5>#3 HTML сабактар. Бул сабакта, ошондой эле мазмуну беттеги,
+          <br/> Текст Сүрөттөр менен башкача айтканда мазмуну менен иштөө үчүн тегтер менен таанышабыз.
+          <br/> H1-H6 теги , a, SPAN, P, IMG, ul\OL\LI жана BR.</h5>
+          <br/>
+          <ReactPlayer controls url='https://youtu.be/PA9QIhDagZc' 
+          fluid={false}
+          width={500}
+          height={400} />
+          </div>
+          <br/>
+          <br/>
+          <br/>
+          <div className="player"> 
+          <h5>#4  Бөлүм №4.  FORM, INPUT, TEXTAREA, SELECT, OPTION и BUTTON,
+          <br/> ошондой эле алардын атрибуттарын изилдөө.
+          <br/> Сабактын аягында практикалык тапшырма болот:)</h5>
+          <br/>
+          <ReactPlayer controls url='https://youtu.be/MGKs8JHk8uA' 
           fluid={false}
           width={500}
           height={400} />
