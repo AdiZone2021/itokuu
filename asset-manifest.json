@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/itokuu/static/css/main.da3b1b8a.chunk.css",
-    "main.js": "/itokuu/static/js/main.cf7c40ec.chunk.js",
-    "main.js.map": "/itokuu/static/js/main.cf7c40ec.chunk.js.map",
+    "main.js": "/itokuu/static/js/main.d9618f1e.chunk.js",
+    "main.js.map": "/itokuu/static/js/main.d9618f1e.chunk.js.map",
     "runtime-main.js": "/itokuu/static/js/runtime-main.637eafe5.js",
     "runtime-main.js.map": "/itokuu/static/js/runtime-main.637eafe5.js.map",
-    "static/js/2.6bebad4d.chunk.js": "/itokuu/static/js/2.6bebad4d.chunk.js",
-    "static/js/2.6bebad4d.chunk.js.map": "/itokuu/static/js/2.6bebad4d.chunk.js.map",
+    "static/js/2.64b232fc.chunk.js": "/itokuu/static/js/2.64b232fc.chunk.js",
+    "static/js/2.64b232fc.chunk.js.map": "/itokuu/static/js/2.64b232fc.chunk.js.map",
     "static/js/3.7dba4051.chunk.js": "/itokuu/static/js/3.7dba4051.chunk.js",
     "static/js/3.7dba4051.chunk.js.map": "/itokuu/static/js/3.7dba4051.chunk.js.map",
     "index.html": "/itokuu/index.html",
     "static/css/main.da3b1b8a.chunk.css.map": "/itokuu/static/css/main.da3b1b8a.chunk.css.map",
-    "static/js/2.6bebad4d.chunk.js.LICENSE.txt": "/itokuu/static/js/2.6bebad4d.chunk.js.LICENSE.txt"
+    "static/js/2.64b232fc.chunk.js.LICENSE.txt": "/itokuu/static/js/2.64b232fc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.637eafe5.js",
-    "static/js/2.6bebad4d.chunk.js",
+    "static/js/2.64b232fc.chunk.js",
     "static/css/main.da3b1b8a.chunk.css",
-    "static/js/main.cf7c40ec.chunk.js"
+    "static/js/main.d9618f1e.chunk.js"
   ]
 }
