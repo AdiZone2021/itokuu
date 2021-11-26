@@ -94,17 +94,27 @@ function App() {
           width={500}
           height={400} />
           </div>
-        <footer>
-
-        </footer>
+          <br/>
+          <br/>
+          <br/>
+          <div className="player"> 
+          <h5>#5 CSS синтаксиси. CSS стилдер 
+          каскаддык жадыбалдар менен тааныша аласыз. <br/>CSS синтаксти  изилдөө
+          </h5>
+          <br/>
+          <ReactPlayer controls url='https://youtu.be/sq-rtWIstoY' 
+          fluid={false}
+          width={500}
+          height={400} />
+          </div>
         </div>
       ):(
       <LoginForm Login={Login} error={error} />
       )}
     </div>
     </div>
-  );
-}
+  );}
+
 
 
 
