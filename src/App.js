@@ -107,6 +107,20 @@ function App() {
           width={500}
           height={400} />
           </div>
+           <br/>
+          <br/>
+          <br/>
+          <div className="player"> 
+          <h5>
+          № 6.  Текст жана тамгалар менен иштөө үчүн параметрлер менен таанышабыз.
+
+          </h5>
+          <br/>
+          <ReactPlayer controls url='https://youtu.be/Qvv-sZs_gRU' 
+          fluid={false}
+          width={500}
+          height={400} />
+          </div>
         </div>
       ):(
       <LoginForm Login={Login} error={error} />
