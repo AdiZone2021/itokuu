@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/itokuu/static/css/main.69bb5a2b.chunk.css",
+    "main.css": "/itokuu/static/css/main.8175fa20.chunk.css",
     "main.js": "/itokuu/static/js/main.fc8403fc.chunk.js",
     "main.js.map": "/itokuu/static/js/main.fc8403fc.chunk.js.map",
     "runtime-main.js": "/itokuu/static/js/runtime-main.59699299.js",
@@ -10,7 +10,7 @@
     "static/js/3.0ecaf52a.chunk.js": "/itokuu/static/js/3.0ecaf52a.chunk.js",
     "static/js/3.0ecaf52a.chunk.js.map": "/itokuu/static/js/3.0ecaf52a.chunk.js.map",
     "index.html": "/itokuu/index.html",
-    "static/css/main.69bb5a2b.chunk.css.map": "/itokuu/static/css/main.69bb5a2b.chunk.css.map",
+    "static/css/main.8175fa20.chunk.css.map": "/itokuu/static/css/main.8175fa20.chunk.css.map",
     "static/js/2.768ef485.chunk.js.LICENSE.txt": "/itokuu/static/js/2.768ef485.chunk.js.LICENSE.txt",
     "static/media/one.9910070a.png": "/itokuu/static/media/one.9910070a.png",
     "static/media/two.3e23e33a.png": "/itokuu/static/media/two.3e23e33a.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.59699299.js",
     "static/js/2.768ef485.chunk.js",
-    "static/css/main.69bb5a2b.chunk.css",
+    "static/css/main.8175fa20.chunk.css",
     "static/js/main.fc8403fc.chunk.js"
   ]
 }
