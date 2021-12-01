@@ -113,10 +113,22 @@ function App() {
           <div className="player"> 
           <h5>
           № 6.  Текст жана тамгалар менен иштөө үчүн параметрлер менен таанышабыз.
-
           </h5>
           <br/>
           <ReactPlayer controls url='https://youtu.be/Qvv-sZs_gRU' 
+          fluid={false}
+          width={500}
+          height={400} />
+          </div>
+          <br/>
+          <br/>
+          <br/>
+          <div className="player"> 
+          <h5>
+          #7.Касиеттери блоктор. Чегинүү мүнөздөмөсү өлчөмдөрү.
+          </h5>
+          <br/>
+          <ReactPlayer controls url='https://youtu.be/n1TcgBRqX5A' 
           fluid={false}
           width={500}
           height={400} />
