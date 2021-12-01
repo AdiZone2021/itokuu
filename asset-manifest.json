@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/itokuu/static/css/main.da3b1b8a.chunk.css",
-    "main.js": "/itokuu/static/js/main.3441f994.chunk.js",
-    "main.js.map": "/itokuu/static/js/main.3441f994.chunk.js.map",
+    "main.js": "/itokuu/static/js/main.ce7f4de7.chunk.js",
+    "main.js.map": "/itokuu/static/js/main.ce7f4de7.chunk.js.map",
     "runtime-main.js": "/itokuu/static/js/runtime-main.637eafe5.js",
     "runtime-main.js.map": "/itokuu/static/js/runtime-main.637eafe5.js.map",
     "static/js/2.7765aa77.chunk.js": "/itokuu/static/js/2.7765aa77.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.637eafe5.js",
     "static/js/2.7765aa77.chunk.js",
     "static/css/main.da3b1b8a.chunk.css",
-    "static/js/main.3441f994.chunk.js"
+    "static/js/main.ce7f4de7.chunk.js"
   ]
 }
