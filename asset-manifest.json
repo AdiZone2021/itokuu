@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/itokuu/static/css/main.461dad70.chunk.css",
-    "main.js": "/itokuu/static/js/main.163acf50.chunk.js",
-    "main.js.map": "/itokuu/static/js/main.163acf50.chunk.js.map",
+    "main.js": "/itokuu/static/js/main.66c9e7da.chunk.js",
+    "main.js.map": "/itokuu/static/js/main.66c9e7da.chunk.js.map",
     "runtime-main.js": "/itokuu/static/js/runtime-main.59699299.js",
     "runtime-main.js.map": "/itokuu/static/js/runtime-main.59699299.js.map",
-    "static/js/2.e8f13ef9.chunk.js": "/itokuu/static/js/2.e8f13ef9.chunk.js",
-    "static/js/2.e8f13ef9.chunk.js.map": "/itokuu/static/js/2.e8f13ef9.chunk.js.map",
+    "static/js/2.d6e7946e.chunk.js": "/itokuu/static/js/2.d6e7946e.chunk.js",
+    "static/js/2.d6e7946e.chunk.js.map": "/itokuu/static/js/2.d6e7946e.chunk.js.map",
     "static/js/3.0ecaf52a.chunk.js": "/itokuu/static/js/3.0ecaf52a.chunk.js",
     "static/js/3.0ecaf52a.chunk.js.map": "/itokuu/static/js/3.0ecaf52a.chunk.js.map",
     "index.html": "/itokuu/index.html",
     "static/css/main.461dad70.chunk.css.map": "/itokuu/static/css/main.461dad70.chunk.css.map",
-    "static/js/2.e8f13ef9.chunk.js.LICENSE.txt": "/itokuu/static/js/2.e8f13ef9.chunk.js.LICENSE.txt",
+    "static/js/2.d6e7946e.chunk.js.LICENSE.txt": "/itokuu/static/js/2.d6e7946e.chunk.js.LICENSE.txt",
     "static/media/one.9910070a.png": "/itokuu/static/media/one.9910070a.png",
     "static/media/two.3e23e33a.png": "/itokuu/static/media/two.3e23e33a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.59699299.js",
-    "static/js/2.e8f13ef9.chunk.js",
+    "static/js/2.d6e7946e.chunk.js",
     "static/css/main.461dad70.chunk.css",
-    "static/js/main.163acf50.chunk.js"
+    "static/js/main.66c9e7da.chunk.js"
   ]
 }
